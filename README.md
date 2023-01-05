@@ -1,4 +1,4 @@
-![Slide4](https://user-images.githubusercontent.com/119645807/210773120-d5ab3054-0548-4d40-8c02-5e99308506e9.png)
+[Stereotaxic Manipulator Logo Copy 2.pdf](https://github.com/Dopamine-Scientific/Stereotaxic-Guider/files/10351826/Stereotaxic.Manipulator.Logo.Copy.2.pdf)
 # Privacy Policy
 Rintaro Imada（今田倫太郎） built the Stereotaxic Guider app as a Free app. This SERVICE is provided by Rintaro Imada at no cost and is intended for use as is.
 
