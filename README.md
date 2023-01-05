@@ -1,6 +1,7 @@
 ![Stereotaxic Manipulator Logo Copy 2](https://user-images.githubusercontent.com/119645807/210773647-8dec8c03-c21c-423b-a8e9-797e080a4dd3.png)
 
 | ![Slice41](https://user-images.githubusercontent.com/119645807/210774127-a15122c0-a390-43d8-a503-f725e1f33c3d.png) | ![Slice44](https://user-images.githubusercontent.com/119645807/210774172-14d098d1-9584-4fa4-b786-a2d8e518c2ef.png) |
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 # Privacy Policy
 Rintaro Imada（今田倫太郎） built the Stereotaxic Guider app as a Free app. This SERVICE is provided by Rintaro Imada at no cost and is intended for use as is.
 
